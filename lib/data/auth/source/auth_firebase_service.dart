@@ -56,7 +56,7 @@ class AuthFirebaseServiceImpl extends AuthFirebaseService {
       print(returnedData.docs);
       return Right(returnedData.docs);
     } catch (e) {
-      return const Left('Please try again');
+      return const Left('Pleasesss try again');
     }
   }
 
