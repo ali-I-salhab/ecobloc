@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "781973480715",
+    "project_id": "ecommerce-988db",
+    "storage_bucket": "ecommerce-988db.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:781973480715:android:463f1a1049c957db4c2e0e",
+        "android_client_info": {
+          "package_name": "com.example.ecobloc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFbY93zxtc8jgP2uhD9zKsPwal2lrl72A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
